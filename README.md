@@ -1,5 +1,8 @@
-## Hi there 👋
+Hi there 👋
 
+-🌱 I'm currently learning Fullstack Development  
+-📫 Reach me at: [Email](mailto:sivamanoj210@gmail.com)    
+-😄 Pronouns: He/Him
 <!--
 **Manoj-019/Manoj-019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
